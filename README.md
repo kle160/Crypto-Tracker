@@ -1,4 +1,4 @@
-// SOLO PROJECT
+## CRYPTO MANIA TRACKER 
 
 // Author: Kevin Le
 // Project: Crypto Mania Tracker
