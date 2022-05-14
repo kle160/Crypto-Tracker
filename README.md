@@ -2,8 +2,6 @@
 - Author: Kevin Le
 - Project: Crypto Mania Tracker
 - Tech Stack: JS, HTML, CSS, React, Redux, Express, Node.js, GraphQL/Postgres, GIT, Webpack, Material UI, AWS
-
-## Description 
 - Description: Crypto login application that you can add what coins you have in your wallet. Makes API call
 to an open crypto API 
 
